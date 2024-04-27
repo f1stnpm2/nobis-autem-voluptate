@@ -1,18 +1,82 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/nobis-autem-voluptate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@diahkomalasarinpm/odio-facilis-beatae": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "@f1stnpm2/repudiandae-numquam-exercitationem": "^1.0.0",
+    "@wemnyelezxnpm/neque-eligendi-dolorem": "^1.0.0"
+  },
+  "keywords": [
+    "east-asian-width",
+    "flags",
+    "workspace:*",
+    "watching",
+    "filter",
+    "matchAll",
+    "command",
+    "dependency manager",
+    "regexp",
+    "escape",
+    "compiler",
+    "stateless",
+    "make",
+    "mixins",
+    "nodejs",
+    "character",
+    "exec",
+    "batch",
+    "postcss-plugin",
+    "date",
+    "Int16Array",
+    "chrome",
+    "immutable",
+    "tester",
+    "es2015",
+    "styles",
+    "rgb",
+    "negative",
+    "fullwidth",
+    "invariant",
+    "hookform",
+    "input",
+    "testing",
+    "diff",
+    "listeners",
+    "speed",
+    "picomatch",
+    "classname",
+    "tc39",
+    "spinner",
+    "writable",
+    "typeof",
+    "Array.prototype.findLast",
+    "dom-testing-library",
+    "every",
+    "String.prototype.trim",
+    "mobile",
+    "environment",
+    "6to5",
+    "watchFile"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/nobis-autem-voluptate.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/nobis-autem-voluptate/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/nobis-autem-voluptate/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
